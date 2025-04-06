@@ -1,0 +1,6 @@
+id,location,intersection,products,day,start_time,end_time,latitude,longitude
+1,Lincoln Park Farmers Market,"N. Clark St. & W. Lincoln Ave.","Fresh vegetables, fruits, eggs, honey, bread, flowers",Saturday,7:00 AM,1:00 PM,41.9158,-87.6347
+2,Green City Market,"N. Clark St. & N. Lincoln Ave.","Organic produce, dairy, meat, fish, baked goods",Wednesday,7:00 AM,1:00 PM,41.9153,-87.6337
+3,Logan Square Farmers Market,"N. Milwaukee Ave. & N. Logan Blvd.","Local produce, artisanal cheese, pastries, coffee",Sunday,10:00 AM,3:00 PM,41.9231,-87.7093
+4,Wicker Park Farmers Market,"1425 N. Damen Ave.","Fresh fruits, vegetables, herbs, flowers, jams",Sunday,8:00 AM,2:00 PM,41.9075,-87.6769
+5,Division Street Farmers Market,"Division St. & Dearborn St.","Seasonal produce, honey, eggs, bread, flowers",Saturday,7:00 AM,1:00 PM,41.9037,-87.6290
