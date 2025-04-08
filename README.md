@@ -104,3 +104,6 @@ The project is composed of a **Next.js frontend** and a **FastAPI backend**, con
 ---
 
 *Verdura AI was designed, engineered, and deployed by a solo developer in under 24 hours for a WildHacks 2025 hackathon challenge, with a vision to make food intelligence accessible, seasonal, and local.*
+
+<img width="1466" alt="Screenshot 2025-04-06 at 6 51 01 AM" src="https://github.com/user-attachments/assets/0af34caf-7977-4eb1-a898-93972315dcf3" />
+
